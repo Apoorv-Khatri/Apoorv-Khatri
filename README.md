@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Apoorv-Khatri
 - 👀 I’m interested in economics.
-- 🌱 I’m currently learning data science.
 - 📫 How to reach me - apoorv.khatri77@gmail.com
 
 <!---
