@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Apoorv-Khatri
-- 👀 I’m interested in economics.
+- 👀 I’m interested in economics & finance.
 - 📫 How to reach me - apoorv.khatri77@gmail.com
 
 <!---
